@@ -1,5 +1,6 @@
 ### Hey, I'm Thodoris Traitsis 👋
 
+🎓 Graduated of the International University of Greece (IHU), at the Department of Information and Electronic Engineering.
 <!--
 **thotrai/thotrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
