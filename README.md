@@ -45,7 +45,7 @@ I enjoy working closely with developers and product teams, translating requireme
 <a href="https://github.com/thotrai">
     <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://www.linkedin.com/in/theodoros-traitsis">
+<a href="https://www.linkedin.com/in/theodoros-traitsis-41368a154/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="mailto:thodoristraitsis@gmail.com">
