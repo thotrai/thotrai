@@ -1,9 +1,9 @@
-# Hey! I'm Thodoris Traitsis <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Hey! I'm Thodoris Traitsis
 
 I’m a **Software QA Engineer** from Greece 🇬🇷, with experience in both manual and automation testing, focused on building reliable test strategies that improve product quality and release confidence.  
 I enjoy working closely with developers and product teams, translating requirements into effective test cases, and continuously improving testing processes through automation.
 
-🎓 Graduated of the International University of Greece (IHU), at the Department of Information and Electronic Engineering.
+🎓 Graduated of the International Hellenic University (IHU), at the Department of Information and Electronic Engineering.
 
 👨🏻‍💻 I'm currently honing my skills in Test Automation by working on various projects that challenge me to push my limits and explore new techniques and technologies.
 
